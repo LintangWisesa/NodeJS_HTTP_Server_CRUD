@@ -1,0 +1,11 @@
+{
+  "name": "0_http_backend_crud",
+  "version": "1.0.0",
+  "description": "lintang http nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lintangwisesa",
+  "license": "ISC"
+}
