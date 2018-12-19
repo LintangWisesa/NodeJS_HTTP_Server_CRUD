@@ -1,0 +1,18 @@
+[
+    {
+        "myname": "Andy",
+        "myage": 19
+    },
+    {
+        "myname": "Caca",
+        "myage": "31"
+    },
+    {
+        "myname": "Deni",
+        "myage": "42"
+    },
+    {
+        "myname": "Euis",
+        "myage": "21"
+    }
+]
